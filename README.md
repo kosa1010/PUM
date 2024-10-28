@@ -1,6 +1,6 @@
 Programowanie urządzeń mobilnych laboratorium L_X_ 
 
-# Dokumentacja projetu: ** Tematyka projektu**
+# Dokumentacja projetu: ** Temat projektu**
 
 ## Zespoł projetowy:
 _Mirosław Gągorzelewski
