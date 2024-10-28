@@ -14,6 +14,7 @@ Grażyna Zeszczecina_
 
 ## Panele / zakładki aplikacji 
 - Panel logowania
+
 ![image](https://github.com/user-attachments/assets/a271c59d-e3f5-4c74-99b5-7300d4db32a4)
 ...
 
